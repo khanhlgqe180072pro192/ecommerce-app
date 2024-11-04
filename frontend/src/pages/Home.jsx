@@ -2,7 +2,7 @@ import React from 'react'
 import Hero from '../components/Hero'
 import LastestCollection from '../components/LastestCollection'
 import BestSeller from '../components/BestSeller'
-import Ourpolicy from '../components/Ourpolicy'
+import Ourpolicy from '../components/OurPolicy'
 import NewsletterBox from '../components/NewsletterBox'
 
 const Home = () => {
